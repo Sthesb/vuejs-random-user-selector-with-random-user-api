@@ -1,0 +1,29 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#app{
+    text-align: center;
+}
+#app img{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.male {
+    /* border: 5px solid #2d94fa; */
+    border: none;
+    background-color: #2d94fa;
+}
+.female {
+    /* border: 5px solid rgb(247, 154, 169); */
+    border: none;
+    background-color: rgb(247, 154, 169);
+}
